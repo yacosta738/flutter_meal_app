@@ -1,9 +1,7 @@
 # Meal App
 
 A new Flutter project for a meal app.
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gpFxVA2"  ><a href="//imgur.com/a/gpFxVA2">Flutter meal app</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![App Meal](https://imgur.com/a/gpFxVA2)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
