@@ -2,7 +2,7 @@
 
 A new Flutter project for a meal app.
 
-![screenshot](screenshots/meal-app.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/gpFxVA2"  ><a href="//imgur.com/a/gpFxVA2">Flutter meal app</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Getting Started
 
