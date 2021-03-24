@@ -1,4 +1,4 @@
-# Shop App
+# Meal App
 
 A new Flutter project for a meal app.
 
